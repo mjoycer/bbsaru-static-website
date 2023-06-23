@@ -27,7 +27,7 @@ and Bootstrap.
 
 View live app here: 
 
-https://mjoycer-bbsaru-static-website.herokuapp.com/index.html
+https://mjoycer.github.io/bbsaru-static-website/index.html
 
 
 ## License
